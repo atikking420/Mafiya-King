@@ -2,9 +2,9 @@
 # coding=utf-8
 #jangan di recode ngentot
 #recode jomblo seumur hidup
-# (MR.K7C8NG) PEMBUAT
+# (MR.KING) PEMBUAT
 #SUBSCRIBE CHANNEL mrk7c8ng-ices
-#FOLLOW INSTAGRAM @pranata_pasha
+#FOLLOW FB @atik.hasan624
 
 #Import module
 import os,sys,time,datetime,random,hashlib,re,threading,json,getpass,urllib,cookielib
